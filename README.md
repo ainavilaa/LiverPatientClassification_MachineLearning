@@ -32,7 +32,7 @@ The dataset was sourced form the UCI Machine Learning Repository, originally con
 
 ## Methodology and Contents
 
-A detailed explanation of the methodology, including data exploration, preprocessing, feature transformation, model selection, hyperparameter tuning, and evaluation, can be found in the final **project report**. 
+A detailed explanation of the methodology, including data exploration, preprocessing, feature transformation, model selection, hyperparameter tuning, and evaluation, can be found in the final project report. 
 
 Specifically, it covers:
 - **Feature Analysis**: Exploratory data analysis, outlier treatment, scaling and transformations among other preprocessing steps.
