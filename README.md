@@ -42,7 +42,7 @@ Specifically, it covers:
 - **Results and Discussion**: Performance comparison of all models, both locally and on the Kaggle leaderboard.
 - **Conclusions**: Summary of model effectiveness and suggestions for future work. 
 
-For full details, refer to the project **report**, and to reproduce the workflow, check the full **script**.
+For full details, refer to the `LiverPatientClassification_Report.pdf`, and to reproduce the workflow, check the full `LiverPatientClassification_Script.ipynb`.
 
 ## Authors
 
